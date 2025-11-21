@@ -22,6 +22,9 @@ Suggests repair actions and a rough cost category, and
 Presents everything in neat tables suitable for reports or apps.
 
 This was built as a capstone for the Kaggle x Google “5-Day Gen AI Intensive – Agents” course, Freestyle track.
+![AZqVIHlL-oi2_JZi-0dzCw-AZqVIHlLNuORZ4x0PrjG_g](https://github.com/user-attachments/assets/ef538df6-1e1d-4bb4-a2eb-843de2ff9b71)
+
+
 
 ✨ Key Features
 
